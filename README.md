@@ -1,4 +1,4 @@
-# PayBox Project
+# Fraud Detection Project
 
 This repository contains the code for the PayBox Project, which is designed to analyze and predict fraudulent transactions using machine learning techniques. The project is structured around a Jupyter notebook (`app.ipynb`) that guides the user through the data analysis and modeling process.
 

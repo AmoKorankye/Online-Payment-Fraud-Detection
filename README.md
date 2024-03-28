@@ -6,7 +6,7 @@ This repository contains the code for the PayBox Project, which is designed to a
 
 The dataset used in this project is a synthetic dataset created for the purpose of detecting fraudulent transactions. It is a binary classification problem where the goal is to predict whether a transaction is fraudulent or not. The dataset includes various features such as the type of transaction, the amount, the location, and the time of the transaction, among others.
 
-The dataset can be downloaded from the following link: [Paysim1 Dataset on Kaggle](https://www.kaggle.com/datasets/ealaxi/paysim1).
+The dataset can be downloaded from the following link: [Paysim1 Dataset on Kaggle](https://www.kaggle.com/ealaxi/paysim1/download).
 
 ## Code Overview
 
